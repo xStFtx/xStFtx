@@ -1,6 +1,6 @@
 # 💫 About Me:
 Working on applying theoretical mathematics to neural networks. 
-
+Currently studying chaotic dynamics.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/philip-esterhuizen-39552b21b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/xStFx) 
