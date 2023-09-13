@@ -1,5 +1,6 @@
 # 💫 About Me:
 ## Working on applying theoretical mathematics to neural networks. 
+## Also working on full-stack development.
 ## Currently studying chaotic dynamics.
 
 ## 🌐 Socials:
